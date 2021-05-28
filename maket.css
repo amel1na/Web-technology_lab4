@@ -46,7 +46,7 @@ li {
 }
 
 .first {
-    background: url('https://i.bstr.es/highmotor/2012/12/Audi-RS6-Avant-52.jpg') center center/cover no-repeat;
+    background: url('images/background.jpg') center center/cover no-repeat;
 	height: 800px;
 	position: relative;
     margin: 0;
