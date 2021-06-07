@@ -46,7 +46,7 @@ li {
 }
 
 .first {
-    background: url('images/background.jpg') center center/cover no-repeat;
+    background: url('images/background.jpeg') center center/cover no-repeat;
 	height: 800px;
 	position: relative;
     margin: 0;
